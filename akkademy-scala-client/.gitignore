@@ -6,3 +6,8 @@
 /target/
 /bin/
 /sbt eclipse cliente.launch
+/.settings/
+/.cache-main
+/.cache-tests
+/.classpath
+/.project

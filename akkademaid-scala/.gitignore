@@ -6,3 +6,8 @@
 /target/
 /bin/
 /akkademaid sbt eclipse.launch
+/.settings/
+/.cache-main
+/.cache-tests
+/.classpath
+/.project

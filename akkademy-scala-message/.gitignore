@@ -7,3 +7,8 @@
 /bin/
 /eclipse sbt.launch
 /publish-local sbt.launch
+/.settings/
+/.cache-main
+/.cache-tests
+/.classpath
+/.project
