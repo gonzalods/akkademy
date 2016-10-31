@@ -1,0 +1,13 @@
+New log file opened at Fri Oct 28 10:37:42 CEST 2016 by 3724@PC09RNDU
+Taking next connection to: 63027
+New client attempting to connect on port: 63028-63027
+  Address = /192.168.56.1:63027
+This client on port 63028 has uuid 60a48110-0257-421a-9e4f-c19effa7eb37 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-60a48110-0257-421a-9e4f-c19effa7eb37
+Taking next connection to: 63027
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 3724@PC09RNDU logs at Fri Oct 28 10:40:43 CEST 2016, goodbye.

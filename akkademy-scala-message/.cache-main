@@ -1,0 +1,123 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala -> C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> C:\Program Files\Java\jdk1.8.0_92\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> C:\Programas\eclipse Luna 4.4\eclipse scala\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+12 items
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\DeleteRequest$.class
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\DeleteRequest.class
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\GetRequest$.class
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\GetRequest.class
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\KeyExistException$.class
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\KeyExistException.class
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\KeyNotFoundException$.class
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\KeyNotFoundException.class
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\SetIfNoExist$.class
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\SetIfNoExist.class
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\SetRequest$.class
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\SetRequest.class
+binary dependencies:
+2 items
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> C:\Programas\eclipse Luna 4.4\eclipse scala\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> com.akkademy.message.DeleteRequest
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> com.akkademy.message.DeleteRequest$
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> com.akkademy.message.GetRequest
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> com.akkademy.message.GetRequest$
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> com.akkademy.message.KeyExistException
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> com.akkademy.message.KeyExistException$
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> com.akkademy.message.KeyNotFoundException
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> com.akkademy.message.KeyNotFoundException$
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> com.akkademy.message.SetIfNoExist
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> com.akkademy.message.SetIfNoExist$
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> com.akkademy.message.SetRequest
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> com.akkademy.message.SetRequest$
+used names:
+0 items
+product stamps:
+12 items
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\DeleteRequest$.class -> lastModified(1477905794685)
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\DeleteRequest.class -> lastModified(1477905794698)
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\GetRequest$.class -> lastModified(1477905794708)
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\GetRequest.class -> lastModified(1477905794705)
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\KeyExistException$.class -> lastModified(1477905794717)
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\KeyExistException.class -> lastModified(1477905794714)
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\KeyNotFoundException$.class -> lastModified(1477905794720)
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\KeyNotFoundException.class -> lastModified(1477905794725)
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\SetIfNoExist$.class -> lastModified(1477905794729)
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\SetIfNoExist.class -> lastModified(1477905794736)
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\SetRequest$.class -> lastModified(1477905794746)
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\bin\com\akkademy\message\SetRequest.class -> lastModified(1477905794743)
+source stamps:
+1 items
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> hash(ba07670eddb48a724d1005b6015589a6f77a01ba)
+binary stamps:
+2 items
+C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar -> lastModified(1462779263761)
+C:\Programas\eclipse Luna 4.4\eclipse scala\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar -> lastModified(1462360690000)
+class names:
+2 items
+C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar -> java.lang.Object
+C:\Programas\eclipse Luna 4.4\eclipse scala\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar -> scala.Equals
+internal apis:
+1 items
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHACO2jgAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAZzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAfY29tLmFra2FkZW15Lm1lc3NhZ2UuU2V0UmVxdWVzdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AL3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ALgBwc3EAfgAzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AN3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXEAfgAQAAA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
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\0003299\akka\akkademy\akkademy-scala-message\src\main\scala\com\akkademy\message\Messages.scala -> 
+AAAAAAAAAAA=
+compilations:
+8 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWBJ1/ep1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkQ6XGFra2FcYWtrYWRlbXktc2NhbGEtbWVzc2FnZVxiaW50AC1EOlxha2thXGFra2FkZW15LXNjYWxhLW1lc3NhZ2Vcc3JjXG1haW5cc2NhbGE=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWBJ4Axd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkQ6XGFra2FcYWtrYWRlbXktc2NhbGEtbWVzc2FnZVxiaW50AC1EOlxha2thXGFra2FkZW15LXNjYWxhLW1lc3NhZ2Vcc3JjXG1haW5cc2NhbGE=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWBWip3F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkQ6XGFra2FcYWtrYWRlbXktc2NhbGEtbWVzc2FnZVxiaW50AC1EOlxha2thXGFra2FkZW15LXNjYWxhLW1lc3NhZ2Vcc3JjXG1haW5cc2NhbGE=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWBbBl9d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkQ6XGFra2FcYWtrYWRlbXktc2NhbGEtbWVzc2FnZVxiaW50AC1EOlxha2thXGFra2FkZW15LXNjYWxhLW1lc3NhZ2Vcc3JjXG1haW5cc2NhbGE=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWBbB+Bt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkQ6XGFra2FcYWtrYWRlbXktc2NhbGEtbWVzc2FnZVxiaW50AC1EOlxha2thXGFra2FkZW15LXNjYWxhLW1lc3NhZ2Vcc3JjXG1haW5cc2NhbGE=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWBbMGk11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIkQ6XGFra2FcYWtrYWRlbXktc2NhbGEtbWVzc2FnZVxiaW50AC1EOlxha2thXGFra2FkZW15LXNjYWxhLW1lc3NhZ2Vcc3JjXG1haW5cc2NhbGE=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWBnepkt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXDAwMDMyOTlcV29ya3NwYWNlc1x3b3Jrc3BhY2VzbWlvc1xha2thd3NcYWtrYWRlbXktc2NhbGEtbWVzc2FnZVxiaW50AFdDOlxVc2Vyc1wwMDAzMjk5XFdvcmtzcGFjZXNcd29ya3NwYWNlc21pb3NcYWtrYXdzXGFra2FkZW15LXNjYWxhLW1lc3NhZ2Vcc3JjXG1haW5cc2NhbGE=
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWBoMwip1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOUM6XFVzZXJzXDAwMDMyOTlcYWtrYVxha2thZGVteVxha2thZGVteS1zY2FsYS1tZXNzYWdlXGJpbnQAREM6XFVzZXJzXDAwMDMyOTlcYWtrYVxha2thZGVteVxha2thZGVteS1zY2FsYS1tZXNzYWdlXHNyY1xtYWluXHNjYWxh
